@@ -1,0 +1,10 @@
+#!/bin/sh
+xset -dpms
+xset s off
+setxkbmap es
+matchbox-window-manager & chromium --kiosk http://incidentmanager.neomobilegroup.com:8081/MonitoringInfo/kiosk/monitoring2.html 
+#matchbox-window-manager & chromium --app --kiosk test.html 
+
+
+
+#/Volumes/Home Directory/list.txt
