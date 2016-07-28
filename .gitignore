@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.xkiosk_epiphany
+.xkiosk_uzbl
+*.xkiosk_midori
+bash_history
+uzbl.conf
